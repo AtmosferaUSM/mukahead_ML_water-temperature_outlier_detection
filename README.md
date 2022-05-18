@@ -1,3 +1,20 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://atmosfera.usm.my/index.html" target="_blank">
+    <img src="https://github.com/AtmosferaUSM/ec_mukahead/blob/main/images/white-logo.jpg" alt="Logo">
+  </a>
+
+  <h3 align="center">Outlier Detection Algorithm</h3>
+
+  <p align="center">
+    The code for the outlier detection algorithm for surface water temperature.
+    <br />
+    <a href="https://atmosfera.usm.my/index.html" target="_blank"><strong>Explore the related Atmosfera research website »</strong></a>
+    <br />
+  </p>
+</div>
+
 # Detecting outliers in a univariate time series dataset using unsupervised combined statistical methods: A case study on surface water temperature. Ecological Informatics
 This is the accompanying Github page for the code and data of the "Detecting outliers in a univariate time series dataset using unsupervised combined statistical methods: A case study on surface water temperature" paper.
 
