@@ -8,4 +8,5 @@ The surface water temperature is a vital ecological and climate variable, and it
 Jamshidi, E.J., Yusup, Y. Kayode, J.S., Kamaruddin, M.A. (2022), Detecting outliers in a univariate time series dataset using unsupervised combined statistical methods: A case study on surface water temperature. Ecological Informatics. 69, 101672. https://doi.org/10.1016/j.ecoinf.2022.101672
 
 ## Dataset
-The dataset can be downloaded at the link: https://raw.githubusercontent.com/greenbox1986/water-temperature-outlier/main/data/water_temp.json
+The dataset can be downloaded at the link: https://github.com/AtmosferaUSM/outlier-detection-water-temperature/blob/main/data/water_temp.json.
+For the rest of the data, you can download them at https://atmosfera.usm.my.
