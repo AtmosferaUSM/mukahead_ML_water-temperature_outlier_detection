@@ -30,3 +30,12 @@ The exploratory data analysis and the outlier detection algorithm are written in
 ## Dataset
 The dataset can be downloaded at the link: https://github.com/AtmosferaUSM/outlier-detection-water-temperature/blob/main/data/water_temp.json.
 For the rest of the data, you can download them at https://atmosfera.usm.my.
+
+## Note on Downloading the Repo
+Since the file is large, to clone the repo, you should use this code on your local terminal: 
+
+```bash 
+GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:AtmosferaUSM/mukahead_ML_water-temperature_outlier_detection.git
+```
+
+You should use this command to clone the repo without downloading the large files managed by Git LFS (Large File System), which prevents errors when the LFS quota is exceeded.
